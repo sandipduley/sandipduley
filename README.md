@@ -3,83 +3,74 @@
 <h1 align="center">Sandip Duley</h1>
 
 <h3 align="center">
-  Offensive Security Engineer · Penetration Testing & Attack Simulation
+  Cybersecurity Enthusiast · Web Penetration Testing · Golang Developer
 </h3>
 
 <p align="center">
   <sub>
-    Simulating real-world adversaries to uncover risk before it becomes incident.
+    Exploring how systems break, and how to secure them effectively.
   </sub>
 </p>
 
-<!-- subtle micro-animation divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Bottom_up.svg" width="60%" />
 </p>
 
 ---
 
-## 🧠 About
+## About
 
-I’m an **offensive security engineer** focused on **realistic penetration testing, attack simulation, and exploit validation** across web applications and Linux systems.
+I am a third-year BCA student with a strong focus on cybersecurity, particularly in web penetration testing and vulnerability analysis.
 
-Rather than chasing theoretical bugs or CTF-style tricks, I focus on **how attackers actually gain access, escalate privileges, and persist**, and on delivering findings that **engineering teams can act on**.
+I approach security from a practical perspective — understanding how real-world attackers identify weaknesses, exploit them, and maintain access. My goal is to build hands-on expertise and develop skills that translate into real-world impact.
 
-My work emphasizes **clarity of impact, reproducibility, and attacker realism**.
+Alongside security, I work with Golang to build efficient tools and backend systems, and I am continuously improving through projects and experimentation.
 
 ---
 
-## 🗂️ Repository
+## Repository
 
 https://github.com/sandipduley?tab=repositories
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 🔐 AkumaShield — Linux Security Audit & Hardening Framework
+### Neovim Security Workflow
 
-[Repository → github.com/sandipduley/AkumaShield](https://github.com/sandipduley/AkumaShield)
+https://github.com/sandipduley/neovim
 
-**AkumaShield** is a Linux security audit and hardening framework built from an attacker’s perspective to identify misconfigurations that enable initial access, privilege escalation, and persistence.
-
----
-
-### ⚙️ Neovim Security Workflow
-
-[Repository → github.com/sandipduley/nvim](https://github.com/sandipduley/Neovim-Setup-v2)
-
-A custom Neovim configuration optimized for penetration testing, exploit development, and rapid code navigation.
+A customized Neovim setup tailored for penetration testing, efficient navigation, and development workflows.
 
 ---
 
-## ⚙️ Offensive Skill Set
+## Skills
 
 **Languages**
 
-- Bash, Python, Lua, JavaScript, C
+- Bash
+- Python
+- Golang
+- JavaScript
+- C
 
-**Pentesting Domains**
+**Security Focus**
 
-- Web application penetration testing (XSS, SQLi, auth flaws, file upload)
-- Linux privilege escalation & misconfiguration abuse
-- Attack surface mapping & reconnaissance
-- Exploit reproduction & proof-of-concept development
+- Web Application Penetration Testing  
+- Vulnerability Analysis  
+- Linux Privilege Escalation  
+- Reconnaissance and Attack Surface Mapping  
 
-**Operating Systems**
+**Tools & Workflow**
 
-- Linux (processes, permissions, services, kernel behavior)
-- Virtualized lab environments for attack simulation
-
-**Tooling & Workflow**
-
-- Custom reconnaissance & fuzzing tools
-- Manual testing over scanner dependency
-- Git, Docker, isolated test environments
+- Manual testing methodologies  
+- Custom scripts and tooling  
+- Git and version control  
+- Linux-based environments  
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandip-duley-400b29311/" target="_blank">
@@ -89,7 +80,7 @@ A custom Neovim configuration optimized for penetration testing, exploit develop
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandipduley&theme=github_dark" height="150" />
