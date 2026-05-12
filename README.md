@@ -1,95 +1,117 @@
-<!-- HERO / INTRO SECTION -->
+<div align="center">
 
-<h1 align="center">Sandip Duley</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=500&height=200&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5B0xlichi%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;0xlichi%40shell%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................)](https://github.com/0xlichi)
 
-<h3 align="center">
-  Cybersecurity Enthusiast · Web Penetration Testing · Golang Developer
-</h3>
+<br/>
 
-<p align="center">
-  <sub>
-    Exploring how systems break, and how to secure them effectively.
-  </sub>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=400&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Bottom_up.svg" width="60%" />
-</p>
+</div>
 
----
+<hr/>
 
-## About
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+0xlichi!;Red+Team+%7C+Offensive+Security;"/>
+</h1>
 
-I am a third-year BCA student with a strong focus on cybersecurity, particularly in web penetration testing and vulnerability analysis.
+<div align="center">
 
-I approach security from a practical perspective — understanding how real-world attackers identify weaknesses, exploit them, and maintain access. My goal is to build hands-on expertise and develop skills that translate into real-world impact.
+## 🔽 About me 👇
 
-Alongside security, I work with Golang to build efficient tools and backend systems, and I am continuously improving through projects and experimentation.
+🔴 Offensive Security enthusiast focused on **Red Team operations** and adversary simulation
 
----
+🛠️ Building production-grade **Red Team tooling** in **Go** — from C2 frameworks to custom implants
 
-## Repository
+🐧 Daily driving **Arch Linux** with **Niri** — because the terminal is home
 
-https://github.com/sandipduley?tab=repositories
+🎯 Grinding **TryHackMe** and sharpening skills across the full attack chain
 
----
+🌱 Currently deep into **Go**, **Active Directory attacks**, and **C2 infrastructure design**
 
-## Projects
+💬 Ask me about **Offensive Security, Red Teaming, Go tooling, or Linux** — or open an [issue](https://github.com/0xlichi/0xlichi/issues)
 
-### Neovim Security Workflow
+</div>
 
-https://github.com/sandipduley/neovim
+<br/>
 
-A customized Neovim setup tailored for penetration testing, efficient navigation, and development workflows.
+<div align="center">
 
----
+[![THM](https://img.shields.io/badge/TryHackMe-%400xlichi-1F2937?style=for-the-badge&logo=tryhackme&logoColor=1FF773)](https://tryhackme.com/p/0xlichi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip%20Duley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-duley-400b29311/)
+[![GitHub](https://img.shields.io/badge/GitHub-%400xlichi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xlichi)
 
-## Skills
+</div>
 
-**Languages**
+<br/>
+<hr/>
 
-- Bash
-- Python
-- Golang
-- JavaScript
-- C
+<div align="center">
 
-**Security Focus**
+## 🛠️ Languages · Frameworks · Tools
 
-- Web Application Penetration Testing  
-- Vulnerability Analysis  
-- Linux Privilege Escalation  
-- Reconnaissance and Attack Surface Mapping  
+<br/>
 
-**Tools & Workflow**
+**Primary**
 
-- Manual testing methodologies  
-- Custom scripts and tooling  
-- Git and version control  
-- Linux-based environments  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+**Environment**
 
-## Connect
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandip-duley-400b29311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Security**
 
----
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-## GitHub Stats
+</div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandipduley&theme=github_dark" height="150" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandipduley&theme=github_dark" height="150" />
-</p>
+<br/>
+<hr/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandipduley&theme=github_dark" width="70%" />
-</p>
+<div align="center">
 
----
+## 👨‍💻 Contributions
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/0xlichi/0xlichi/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=0xlichi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<br/><br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlichi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xlichi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xlichi&theme=tokyonight&hide_border=false)
+
+<br/>
+
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xlichi&label=Profile+Views&color=1FF773&style=flat" alt="0xlichi" />
+</div>
