@@ -1,3 +1,4 @@
+.github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
