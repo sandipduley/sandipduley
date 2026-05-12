@@ -16,14 +16,6 @@
 
 🔴 Offensive Security enthusiast focused on **Red Team operations** and adversary simulation
 
-🛠️ Building production-grade **Red Team tooling** in **Go** — from C2 frameworks to custom implants
-
-🐧 Daily driving **Arch Linux** with **Hyprland** — because the terminal is home
-
-🎯 Grinding **TryHackMe** and sharpening skills across the full attack chain
-
-🌱 Currently deep into **Go**, **Active Directory attacks**, and **C2 infrastructure design**
-
 💬 Ask me about **Offensive Security, Red Teaming, Go tooling, or Linux** — or open an [issue](https://github.com/0xlichi/0xlichi/issues)
 
 </div>
