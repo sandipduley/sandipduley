@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=500&height=200&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5B0xlichi%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;0xlichi%40shell%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................)](https://github.com/0xlichi)
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=400&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=600&pause=200&color=1FF773&multiline=true&width=560&height=280&lines=package+main;+;type+Hacker+struct+%7B;++++Name+string;%7D;+;func+(h+*Hacker)+Pwn()+%7B;++++h.Name+%3D+%220xlichi%22;++++%2F%2F+OS%3A+++++Arch+Linux;++++%2F%2F+PwN3d!;%7D)](https://github.com/0xlichi)
 
 </div>
 
@@ -22,7 +18,7 @@
 
 🛠️ Building production-grade **Red Team tooling** in **Go** — from C2 frameworks to custom implants
 
-🐧 Daily driving **Arch Linux** with **Niri** — because the terminal is home
+🐧 Daily driving **Arch Linux** with **Hyprland** — because the terminal is home
 
 🎯 Grinding **TryHackMe** and sharpening skills across the full attack chain
 
